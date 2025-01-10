@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Discogs code to upload my record collection!
+- 🌱 I’m currently learning Python and Web Development!
+- 💬 Ask me about using project management tools (Airtable, G-Sheets, Automations!) in your personal life!
+- 📫 How to reach me: email is best!
+- 😄 Pronouns: She/her
+
 <!--
 **NanMelch-BU/NanMelch-BU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
